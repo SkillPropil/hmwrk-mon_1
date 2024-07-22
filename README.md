@@ -39,3 +39,8 @@ pull-системы: \
   5) Nagios - судя по-всему push
 
 ### Задание 7
+screen (chronograf_screen)
+### Задание 8
+screen (telegraf autogen)
+### Задание 8
+screen (docker)
